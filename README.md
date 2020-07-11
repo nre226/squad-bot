@@ -1,18 +1,17 @@
-# GroupMe Personal Bot
+# GroupMe Squad Bot
 
 ## What You Need to Know
 
-This is a quick bot that I got set up for a group chat that I moderate. It can handle linking to appropriate resources, rolling dice, and other
+This is a quick bot that I got set up for a group chat that I moderate. It can handle linking to appropriate resources, mentioning members, and other
 misc quality of life things.
 
 ### Commands
 
-* /link will link you to The Island Player Resources
+* /drive will link you to the communal google drive
+* Members can be mentioned in mass by using either @all or @everyone
+* Members that live in specifically Lexington can be mentioned by using @lexington or @Lexington
 * /r #d# will roll a number of dice between 1 and 99 (first #) and a side count of between 1 and 9999 (second #), support for addition and subtraction my come in the future
 * /help will link you here... hi. An inline solution for commands will be developed in the future
-* /rollCharacter will output stats for a new Island character
-* /Hassan will give a random quote from the bartender. Can be used anywhere in the message.
-* /Hassan? will give a Yes, No, Maybe response. Can be used anywhere in the message.
 * /good bot will tell him he is doing a good job
 * /shrug will produce the classic `¯\_(ツ)_/¯`
 
