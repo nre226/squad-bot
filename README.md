@@ -8,6 +8,9 @@ misc quality of life things.
 ### Commands
 
 * /drive will link you to the communal google drive
+* /gallery will link you to the Google Photos GroupMe Gallery Archive
+* /members will link you to the auto-generated Google Photos Album of Squad members and pets
+* /photo drive will link you to the Google Photos Album of photos/videos found on the Google Drive (see /drive)
 * Members can be mentioned in mass by using either @all or @everyone
 * Members that live in specifically Lexington can be mentioned by using @lexington or @Lexington
 * /r #d# will roll a number of dice between 1 and 99 (first #) and a side count of between 1 and 9999 (second #), support for addition and subtraction my come in the future
